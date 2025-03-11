@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DungeonDash",
+			"Path": "C:\\Users\\abraa\\OneDrive\\Documents\\GitHub\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDash.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DungeonDashEditor",
+			"Path": "C:\\Users\\abraa\\OneDrive\\Documents\\GitHub\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDashEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
