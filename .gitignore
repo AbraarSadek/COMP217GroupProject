@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+DungeonDash/Intermediate/Build/Win64/UE4Editor/Development/DungeonDash/TestEnemy.cpp.obj.response
+DungeonDash/Intermediate/Build/Win64/UE4Editor/Development/DungeonDash/TestEnemy.cpp.obj.response.old
+DungeonDash/Intermediate/Build/Win64/UE4Editor/Development/DungeonDash/TestEnemy.cpp.txt
+DungeonDash/Intermediate/CachedAssetRegistry.bin
+DungeonDash/Saved/Autosaves/Game/Level/Level_Auto1.umap
+DungeonDash/Saved/Autosaves/PackageRestoreData.json
+DungeonDash/Saved/Config/CrashReportClient/UE4CC-Windows-7160FE8446D788ED22C93CA09192ECDB/CrashReportClient.ini
+DungeonDash/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+DungeonDash/Saved/Config/Windows/Engine.ini
+DungeonDash/Saved/Logs/DungeonDash.log
