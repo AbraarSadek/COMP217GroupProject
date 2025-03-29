@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Ido Isaac\\Desktop\\Web Game Programming\\Wk 1\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDash\\DungeonDash.Build.cs",
-		"C:\\Users\\Ido Isaac\\Desktop\\Web Game Programming\\Wk 1\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDash.Target.cs",
-		"C:\\Users\\Ido Isaac\\Desktop\\Web Game Programming\\Wk 1\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDashEditor.Target.cs"
+		"E:\\Project-Unreal\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDash\\DungeonDash.Build.cs",
+		"E:\\Project-Unreal\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDash.Target.cs",
+		"E:\\Project-Unreal\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDashEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
