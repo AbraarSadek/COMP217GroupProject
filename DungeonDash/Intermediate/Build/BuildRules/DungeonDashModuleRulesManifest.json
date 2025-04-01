@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\UnrealProjects\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDash\\DungeonDash.Build.cs",
-		"D:\\UnrealProjects\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDash.Target.cs",
-		"D:\\UnrealProjects\\COMP217GroupProject\\DungeonDash\\Source\\DungeonDashEditor.Target.cs"
-	],
-	"EngineVersion": "4.27.2"
-}
