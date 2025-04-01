@@ -1,2 +1,2 @@
-E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\Definitions.DungeonDash.h
-E:\Project-Unreal\COMP217GroupProject\DungeonDash\Source\DungeonDash\DungeonDash.h
+C:\Users\Ido Isaac\Desktop\Web Game Programming\Wk 1\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\Definitions.DungeonDash.h
+C:\Users\Ido Isaac\Desktop\Web Game Programming\Wk 1\COMP217GroupProject\DungeonDash\Source\DungeonDash\DungeonDash.h
