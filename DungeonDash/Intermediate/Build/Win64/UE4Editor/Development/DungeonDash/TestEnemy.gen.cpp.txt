@@ -1,5 +1,5 @@
-E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\Definitions.DungeonDash.h
-E:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\Project-Unreal\COMP217GroupProject\DungeonDash\Source\DungeonDash/TestEnemy.h
-E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Inc\DungeonDash\TestEnemy.generated.h
+C:\Users\plati\OneDrive\Documents\GitHub\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\Definitions.DungeonDash.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\plati\OneDrive\Documents\GitHub\COMP217GroupProject\DungeonDash\Source\DungeonDash/TestEnemy.h
+C:\Users\plati\OneDrive\Documents\GitHub\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Inc\DungeonDash\TestEnemy.generated.h
