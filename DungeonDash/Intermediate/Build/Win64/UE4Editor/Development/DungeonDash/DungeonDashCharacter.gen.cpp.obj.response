@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Inc\DungeonDash
-/I E:\Project-Unreal\COMP217GroupProject\DungeonDash\Source
+/I D:\UnrealProjects\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Inc\DungeonDash
+/I D:\UnrealProjects\COMP217GroupProject\DungeonDash\Source
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/FI"E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\DungeonDashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\DungeonDashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\DungeonDashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Inc\DungeonDash\DungeonDashCharacter.gen.cpp"
-/FI"E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\Definitions.DungeonDash.h"
-/Fo"E:\Project-Unreal\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\DungeonDashCharacter.gen.cpp.obj"
+/FI"D:\UnrealProjects\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\DungeonDashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\UnrealProjects\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\DungeonDashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\UnrealProjects\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\DungeonDashEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\UnrealProjects\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Inc\DungeonDash\DungeonDashCharacter.gen.cpp"
+/FI"D:\UnrealProjects\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\Definitions.DungeonDash.h"
+/Fo"D:\UnrealProjects\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\DungeonDashCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4
