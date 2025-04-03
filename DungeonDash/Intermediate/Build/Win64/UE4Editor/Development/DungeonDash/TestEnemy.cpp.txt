@@ -1,3 +1,0 @@
-C:\Users\plati\OneDrive\Documents\GitHub\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\Definitions.DungeonDash.h
-C:\Users\plati\OneDrive\Documents\GitHub\COMP217GroupProject\DungeonDash\Source\DungeonDash\TestEnemy.h
-C:\Users\plati\OneDrive\Documents\GitHub\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Inc\DungeonDash\TestEnemy.generated.h
