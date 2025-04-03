@@ -1,3 +1,3 @@
-C:\Users\Ido Isaac\Desktop\Web Game Programming\Wk 1\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\Definitions.DungeonDash.h
-C:\Users\Ido Isaac\Desktop\Web Game Programming\Wk 1\COMP217GroupProject\DungeonDash\Source\DungeonDash\TestEnemy.h
-C:\Users\Ido Isaac\Desktop\Web Game Programming\Wk 1\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Inc\DungeonDash\TestEnemy.generated.h
+C:\Users\plati\OneDrive\Documents\GitHub\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Development\DungeonDash\Definitions.DungeonDash.h
+C:\Users\plati\OneDrive\Documents\GitHub\COMP217GroupProject\DungeonDash\Source\DungeonDash\TestEnemy.h
+C:\Users\plati\OneDrive\Documents\GitHub\COMP217GroupProject\DungeonDash\Intermediate\Build\Win64\UE4Editor\Inc\DungeonDash\TestEnemy.generated.h
